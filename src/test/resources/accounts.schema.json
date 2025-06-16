@@ -30,7 +30,7 @@
       },
       "currency": {
         "oneOf": [
-          {"type": "string", "pattern": "RUB"},
+          {"type": "string", "pattern": "RUR"},
           {"type": "string", "pattern": "USD"}
         ]
       }
